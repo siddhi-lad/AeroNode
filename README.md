@@ -2,8 +2,6 @@
 
 > **A self-contained, WiFi-enabled air quality station built on ESP32** — featuring real-time AQI estimation, temperature/humidity sensing, an OLED-style scrolling LCD, a dark-themed web dashboard, and persistent flash logging with FIFO rotation.
 
-*Project by **Shrut** and **Siddhi***
-
 ---
 
 ## 📋 Table of Contents
@@ -444,6 +442,19 @@ Place the device in clean air for 2 minutes, then click **Calibrate Base** on th
 | Flash wear | Logging every 60s = ~1440 writes/day; LittleFS mitigates but flash has finite P/E cycles |
 
 ---
+## 👥 Collaborators
+
+<p align="center">
+  <a href="https://github.com/shrutmpatil"><img src="https://img.shields.io/badge/Shrut-Patil-blue?style=for-the-badge&logo=github" alt="Shrut Patil GitHub"></a>
+  <a href="https://github.com/siddhilad920"><img src="https://img.shields.io/badge/Siddhi-Lad-lightgrey?style=for-the-badge&logo=github" alt="Siddhi Lad GitHub"></a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shrutmpatil/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/>
+  <a href="https://www.linkedin.com/in/lad-siddhi/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/>
+  </a>
+</p>
 
 <div align="center">
 
