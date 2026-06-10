@@ -2,4 +2,4 @@
 
 Air Quality Monitoring
 
-Vidyalankar 
+Vidyalankar Institute of Technology
